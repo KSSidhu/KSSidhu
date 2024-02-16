@@ -16,8 +16,6 @@ I love learning new technology and am currently studying mobile development in d
 <br />
 <br />
 
-**Happy Coding!** 😊
-
 </div>
 
 <div align="center">
