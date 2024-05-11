@@ -12,7 +12,7 @@ I'm a Full Stack Developer with 2+ years of hands-on experience designing, devel
 I'm currently based in **BC, Canada.**
 
 <br />
-I love learning new technology and am currently studying mobile development in depth with a focus on React-Native.
+I love learning new technology and am currently focusing on Docker, Golang, Typescript, and React-Native.
 <br />
 <br />
 
