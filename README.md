@@ -20,21 +20,9 @@ I love learning new technology and am currently focusing on Docker, Golang, Type
 
 <div align="center">
 
-### 🛠 &nbsp;Tech Stack
-
 <br />
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react_native)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![NeoVim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim)&nbsp;
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=catppuccin_frappe&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=vim%2Cvim%2C9a9292%3Breact%2Creact%2C128ac7%3Btypescript%2Ctypescript%2C46a9db%3Bjavascript%2Cjavascript%2Cd5d658%3B&line2=go%2Cgo%2C02c9fd%3Bcplusplus%2CC%2B%2B%2C2a86d1%3Bgit%2Cgit%2Ce44a4a%3B)
 </div>
 <br />
 <br />
