@@ -12,7 +12,7 @@ I'm a Full Stack Developer with 4+ years of hands-on experience designing, devel
 I'm currently based in **BC, Canada.**
 
 <br />
-I love learning new technology and am currently focusing on Docker, Golang, Typescript, and React-Native.
+I love learning new technology and am currently focusing on Docker, Golang, PySpark, and Vue.
 <br />
 <br />
 
